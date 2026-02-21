@@ -1,0 +1,59 @@
+# Dependencies
+node_modules/
+Frontend/node_modules/
+Backend/__pycache__/
+
+# Expo
+.expo/
+Frontend/.expo/
+dist/
+web-build/
+
+# Database (optional - remove this line if you want to push the database)
+Backend/trees.db
+Backend/*.db
+
+# Environment variables
+.env
+.env.local
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+npm-debug.*
+*.log
+logs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# Build files
+*.apk
+*.ipa
+*.aab
+build/
+
+# Testing
+coverage/
+.nyc_output/
+
+# Misc
+.cache/
+tmp/
+temp/
