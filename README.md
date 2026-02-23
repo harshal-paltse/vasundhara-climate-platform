@@ -300,6 +300,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - All contributors to this project
 
 ## 📞 Support
+9359947410
 
 For support, email your harshalpaltse@gmail.com or open an issue on GitHub.
 
