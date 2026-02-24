@@ -313,7 +313,8 @@ For support, email your harshalpaltse@gmail.com or open an issue on GitHub.
 - [ ] Team challenges
 - [ ] IoT sensor integration
 - [ ] Real-time satellite data
-- [ ] Mobile app deployment (iOS/Android)
+- [ ] Mobile app deployment (iOS/Android).
+      
 
 ---
 
