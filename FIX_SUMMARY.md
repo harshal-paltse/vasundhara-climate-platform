@@ -61,4 +61,4 @@ The PlantTreeScreen now:
    - Location controls
    - Recent plantings list (if any trees planted)
 
-All functionality is now working correctly!
+All functionality is now working correctly! check now 
