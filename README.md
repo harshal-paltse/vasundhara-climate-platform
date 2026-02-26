@@ -266,11 +266,7 @@ Find your local IP:
 - **Theme**: Dark/Light mode with Context API
 - **UI Style**: Premium command-center aesthetic
 - **Colors**: Black/White with neon green accent
-- **Typography**: Bold, minimal, futuristic
-
-## 📱 Screenshots
-
-[Add screenshots of your app here]
+- **Typography**: Bold, minimal
 
 ## 🤝 Contributing
 
