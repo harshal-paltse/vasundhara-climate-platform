@@ -299,7 +299,7 @@ def co2_complete():
         if total_co2 <= 0:
             return jsonify({"status": "error", "message": "Invalid CO2 value"}), 400
         
-        # Award badge if not already awarded
+        # Award badge
         badge_type = "Carbon Conscious Citizen 🌱"
         badge_awarded = check_and_award_badge(user_id, badge_type)
         
